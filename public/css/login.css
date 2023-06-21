@@ -1,0 +1,22 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 95vw;
+    height: 100vh;
+    background-color: aqua;
+}
+
+.content {
+    
+    height: 60%;
+    width: 40%;
+    background-color: blueviolet;
+}
+
+.illust {
+    height: 60%;
+    width: 40%;
+    background-color: yellow;
+}
